@@ -354,3 +354,11 @@ print("Sekolah:", Siswa.sekolah)
 # Mengubah nilai atribut
 siswa1.kelas = "XII RPL"
 siswa1.perkenalan()
+
+
+
+
+
+
+
+
